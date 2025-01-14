@@ -28,9 +28,7 @@
 
 It's time that to-do list apps were more useful than frontend proof-of-concept demo apps or hyperscaler-harvesting-spyware: 
 - *"Try my blazing fast JS framework's demo to-do app! Add some tasks, drag them around, tick them off. See?"* 🤮 **YUCK** 
-- *"Yes, you can embed images in the task notes. No, you must grant permissions to your whole image library or it won't work.*
-  - Also, location services too...
-  - And phone calls and contacts."* 🤬 **DISGUSTING.**
+- *"Yes, you can embed images in the task notes. No, you **must** grant permissions to your whole image library or it won't work.* 🤬 **DISGUST**
 
 ## Solution? 
 
@@ -40,11 +38,11 @@ Take the power back ✊⚡️
 
 - Want to send secure messages to your friends? Use TLP! ⛓️🙋‍♂️ 
 - Want a secure tunnel to hide your Web traffic from your ISP? TLP! 🚫🕵
-- Want to benchmark your new blazing-fast Javascript framework! USE IT 👨‍💻
-- Want to experience the modern web on a connection slower than dial-up? TLP! 🐌
+- Want to benchmark your new blazing-fast Javascript framework's to-do list demo app? USE IT! 👨‍💻
+- Want to experience the modern web on a connection slower than dial-up? LOOK NO FURTHER! 🐌
 
 > [!CAUTION]
-> While every care has been taken to configure defaults to work within the service agreements of third-party to-do list applications, you are free at any time to drop the gutter guards and run the protocol in all its extreme-overhead glory. Doing so is likely to get you kicked, banned or a nasty email. You are responsible for your own decisions. If you're curious *and* ~~masochistic~~ legally-conscious, you can always spin up your own self-hosted to-do list and spam yourself.
+> While every care has been taken to configure defaults to work within the service agreements of third-party to-do list applications, you are free at any time to drop the gutter guards and run the protocol in all its extreme-overhead glory. Doing so will likely get you kicked, banned or sent a nasty email. You are responsible for your own decisions. If you're curious but ~~masochistic~~ legally-conscious, you can always spin up your own self-hosted to-do list and spam yourself.
 
 ## How it Works
 TLP unnecessarily re-implements the **transport layer** and "sort of" some of the **application layer** of the OSI stack.
